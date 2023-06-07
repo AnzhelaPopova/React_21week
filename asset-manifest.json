@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_21week/static/css/main.e6c13ad2.css",
+    "main.js": "/React_21week/static/js/main.cc2a9ff3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React_21week/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/React_21week/index.html",
+    "main.e6c13ad2.css.map": "/React_21week/static/css/main.e6c13ad2.css.map",
+    "main.cc2a9ff3.js.map": "/React_21week/static/js/main.cc2a9ff3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React_21week/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cc2a9ff3.js"
+  ]
+}
